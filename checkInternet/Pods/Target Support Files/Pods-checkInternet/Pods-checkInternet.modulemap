@@ -1,0 +1,6 @@
+framework module Pods_checkInternet {
+  umbrella header "Pods-checkInternet-umbrella.h"
+
+  export *
+  module * { export * }
+}
